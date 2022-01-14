@@ -1,0 +1,14 @@
+header {
+    background-color: #add8e6;
+    padding: 8px;
+}
+
+.mainHeader {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.tagline {
+    display: flex;
+    justify-content: flex-end;
+}
